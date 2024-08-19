@@ -8,8 +8,8 @@ Este proyecto es una prueba técnica desarrollada como parte del proceso de sele
 
 ## Información del Desarrollador
 
-**Nombre:** Juan Carlos [Tu Apellido]
-**Apellido:** [Tu Apellido]
+**Nombre:** Juan Carlos
+**Apellido:** Alfaro Fernandez
 
 ## Requisitos para el Login
 
@@ -31,7 +31,3 @@ Para que el inicio de sesión funcione correctamente, asegúrate de seguir estos
 3. Abre el proyecto en tu IDE favorito (Android Studio recomendado).
 
 4. Ejecuta la aplicación en un emulador o dispositivo físico.
-
-## Licencia
-
-Este proyecto está bajo la licencia [Tu Licencia]. Consulta el archivo LICENSE para más detalles.
